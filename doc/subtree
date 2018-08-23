@@ -2,8 +2,8 @@
 https://github.com/cloudwu/skynet
 https://github.com/dpull/skynet-mingw
 
-git subtree add --prefix=skynet https://github.com/cloudwu/skynet.git master --squash
-git subtree add --prefix=skynet-mingw https://github.com/dpull/skynet-mingw.git master --squash
+git subtree add --prefix=lib/linux/skynet https://github.com/cloudwu/skynet.git master --squash
+git subtree add --prefix=lib/skynet-mingw https://github.com/dpull/skynet-mingw.git master --squash
 
 
 关于skynet-mingw Build status
